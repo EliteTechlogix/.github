@@ -10,9 +10,10 @@ Services\
 🚀 Digital Marketing\
 💻 Web Application Development\
 💻 Mobile Application Development\
+👩‍💻 Call Center Services
 
 Specialites\
-Lead Generation, Email Outreach, Software Development, Web Development, Mobile Apps Development, Debugging, Bug Fixing, Deployments, Cloud Setup
+Lead Generation, Email Outreach, Software Development, Web Development, Mobile Apps Development, Debugging, Bug Fixing, Deployments, Cloud Setup, Call Center Services
 <!--
 
 **Here are some ideas to get you started:**
