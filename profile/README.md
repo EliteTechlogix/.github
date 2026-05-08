@@ -7,7 +7,7 @@ Services\
 📄 Email Outreach\
 📄 Lead Generation\
 💻 Software Development\
-🚀 Digital Marketing
+🚀 Digital Marketing\
 💻 Web Application Development\
 💻 Mobile Application Development\
 
